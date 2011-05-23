@@ -1,0 +1,11 @@
+The progress of the Hordes of Tarshish client from java to javascript.
+Medium: png
+
+Recently, it has come to my attention that it is feasible to use javascript,
+along with WebSockets or a Java shim, to write the Hordes of Tarshish client.
+Since learning that, I started rewriting the client.  This shows the
+evolution from java to javascript, and the speed that I am able to convert it.
+
+For some reference, it took me weeks to get the half working interface that
+is currently in the java client.  It took me a weekend to redo the interface
+with jQueryUI, and it already works much better than the java version.
